@@ -1,0 +1,939 @@
+[
+  {
+    "ETELÄINEN SUURPIIRI": [
+      {
+        "district_name": "Vironniemen peruspiiri",
+        "subdivisions": [
+          {
+            "name": "Kruununhaka",
+            "latitude": 60.1728702,
+            "longitude": 24.9547326
+          },
+          {
+            "name": "Kluuvi",
+            "latitude": 60.1707783,
+            "longitude": 24.9473293
+          },
+          {
+            "name": "Katajanokka",
+            "latitude": 60.1669752,
+            "longitude": 24.9681511
+          }
+        ]
+      },
+      {
+        "district_name": "Ullanlinnan peruspiiri",
+        "subdivisions": [
+          {
+            "name": "Kaartinkaupunki",
+            "latitude": 60.1652138,
+            "longitude": 24.9472225
+          },
+          {
+            "name": "Punavuori",
+            "latitude": 60.1612371,
+            "longitude": 24.9365046
+          },
+          {
+            "name": "Eira",
+            "latitude": 60.1561911,
+            "longitude": 24.9383747
+          },
+          {
+            "name": "Ullanlinna",
+            "latitude": 60.1587146,
+            "longitude": 24.949404
+          },
+          {
+            "name": "Kaivopuisto",
+            "latitude": 60.1568425,
+            "longitude": 24.9567212
+          },
+          {
+            "name": "Hernesaari",
+            "latitude": 60.1560404,
+            "longitude": 24.9310983
+          },
+          {
+            "name": "Suomenlinna",
+            "latitude": 60.1457064,
+            "longitude": 24.9888603
+          },
+          {
+            "name": "Länsisaaret",
+            "latitude": 60.081025100000005,
+            "longitude": 24.894034230617734
+          }
+        ]
+      },
+      {
+        "district_name": "Kampinmalmin peruspiiri",
+        "subdivisions": [
+          {
+            "name": "Kamppi",
+            "latitude": 60.1685348,
+            "longitude": 24.9304942
+          },
+          {
+            "name": "Etu-Töölö",
+            "latitude": 60.1740311,
+            "longitude": 24.9223027
+          },
+          {
+            "name": "Ruoholahti",
+            "latitude": 60.162925,
+            "longitude": 24.9114974
+          },
+          {
+            "name": "Lapinlahti",
+            "latitude": 63.3638712,
+            "longitude": 27.3984804
+          },
+          {
+            "name": "Jätkäsaari",
+            "latitude": 60.1570639,
+            "longitude": 24.9116552
+          }
+        ]
+      },
+      {
+        "district_name": "Taka-Töölön peruspiiri",
+        "subdivisions": [
+          {
+            "name": "Taka-Töölö",
+            "latitude": 60.1853441,
+            "longitude": 24.9167329
+          }
+        ]
+      },
+      {
+        "district_name": "Lauttasaaren peruspiiri",
+        "subdivisions": [
+          {
+            "name": "Kotkavuori",
+            "latitude": 60.1629358,
+            "longitude": 24.8820595
+          },
+          {
+            "name": "Vattuniemi",
+            "latitude": 60.151971,
+            "longitude": 24.8814295
+          },
+          {
+            "name": "Myllykallio",
+            "latitude": 60.4664282,
+            "longitude": 21.8241128
+          },
+          {
+            "name": "Koivusaari",
+            "latitude": 63.184848450000004,
+            "longitude": 27.327311689322592
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "LÄNTINEN SUURPIIRI": [
+      {
+        "district_name": "Reijolan peruspiiri",
+        "subdivisions": [
+          {
+            "name": "Meilahti",
+            "latitude": 60.1913479,
+            "longitude": 24.9026643
+          },
+          {
+            "name": "Vanha Ruskeasuo",
+            "latitude": 60.2004842,
+            "longitude": 24.9052839
+          },
+          {
+            "name": "Pikku Huopalahti",
+            "latitude": 60.202954,
+            "longitude": 24.8941396
+          },
+          {
+            "name": "Laakso",
+            "latitude": 60.1940859,
+            "longitude": 24.9191674
+          }
+        ]
+      },
+      {
+        "district_name": "Munkkiniemen peruspiiri",
+        "subdivisions": [
+          {
+            "name": "Vanha Munkkiniemi",
+            "latitude": 60.19581085,
+            "longitude": 24.86722746830707
+          },
+          {
+            "name": "Kuusisaari",
+            "latitude": 60.1860206,
+            "longitude": 24.8630153
+          },
+          {
+            "name": "Lehtisaari",
+            "latitude": 60.1784954,
+            "longitude": 24.85252882467526
+          },
+          {
+            "name": "Munkkivuori",
+            "latitude": 60.2071009,
+            "longitude": 24.8712079
+          },
+          {
+            "name": "Niemenmäki",
+            "latitude": 60.2039906,
+            "longitude": 24.8841175
+          },
+          {
+            "name": "Talinranta",
+            "latitude": 60.2075955,
+            "longitude": 24.8557073
+          }
+        ]
+      },
+      {
+        "district_name": "Haagan peruspiiri",
+        "subdivisions": [
+          {
+            "name": "Etelä-Haaga",
+            "latitude": 60.2116151,
+            "longitude": 24.8910918
+          },
+          {
+            "name": "Kivihaka",
+            "latitude": 60.2117279,
+            "longitude": 24.9033992
+          },
+          {
+            "name": "Pohjois-Haaga",
+            "latitude": 60.2256743,
+            "longitude": 24.8908598
+          },
+          {
+            "name": "Lassila",
+            "latitude": 60.2310266,
+            "longitude": 24.8767216
+          }
+        ]
+      },
+      {
+        "district_name": "Pitäjänmäen peruspiiri",
+        "subdivisions": [
+          {
+            "name": "Tali",
+            "latitude": 60.212199,
+            "longitude": 24.8423692
+          },
+          {
+            "name": "Konala",
+            "latitude": 60.2385504,
+            "longitude": 24.8460646
+          },
+          {
+            "name": "Pajamäki",
+            "latitude": 60.2186219,
+            "longitude": 24.8556245
+          },
+          {
+            "name": "Reimarla",
+            "latitude": 60.2286886,
+            "longitude": 24.8578493
+          },
+          {
+            "name": "Marttila",
+            "latitude": 60.585109,
+            "longitude": 22.898546
+          },
+          {
+            "name": "Pitäjänmäen yritysalue",
+            "latitude": 60.2199616,
+            "longitude": 24.8751167
+          }
+        ]
+      },
+      {
+        "district_name": "Kaarelan peruspiiri",
+        "subdivisions": [
+          {
+            "name": "Kannelmäki",
+            "latitude": 60.2436076,
+            "longitude": 24.8832893
+          },
+          {
+            "name": "Maununneva",
+            "latitude": 60.2442434,
+            "longitude": 24.8979551
+          },
+          {
+            "name": "Malminkartano",
+            "latitude": 60.2493404,
+            "longitude": 24.859959
+          },
+          {
+            "name": "Hakuninmaa",
+            "latitude": 60.2525878,
+            "longitude": 24.888068
+          },
+          {
+            "name": "Kuninkaantammi",
+            "latitude": 60.2630569,
+            "longitude": 24.8902449
+          },
+          {
+            "name": "Honkasuo",
+            "latitude": 60.2556725,
+            "longitude": 24.845359
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "KESKINEN SUURPIIRI": [
+      {
+        "district_name": "Kallion peruspiiri",
+        "subdivisions": [
+          {
+            "name": "Vilhonvuori",
+            "latitude": 60.185969,
+            "longitude": 24.9640802
+          },
+          {
+            "name": "Kalasatama",
+            "latitude": 60.1855418,
+            "longitude": 24.9795235
+          },
+          {
+            "name": "Sompasaari",
+            "latitude": 60.1807379,
+            "longitude": 24.9762637
+          },
+          {
+            "name": "Hanasaari",
+            "latitude": 60.1819232,
+            "longitude": 24.9681744
+          },
+          {
+            "name": "Siltasaari",
+            "latitude": 61.992615799999996,
+            "longitude": 24.086426446018066
+          },
+          {
+            "name": "Linjat",
+            "latitude": 60.1839127,
+            "longitude": 24.9449489
+          },
+          {
+            "name": "Torkkelinmäki",
+            "latitude": 60.1857447,
+            "longitude": 24.9551967
+          }
+        ]
+      },
+      {
+        "district_name": "Alppiharjun peruspiiri",
+        "subdivisions": [
+          {
+            "name": "Harju",
+            "latitude": 60.1883906,
+            "longitude": 24.9527031
+          },
+          {
+            "name": "Alppila",
+            "latitude": 60.1913174,
+            "longitude": 24.9384406
+          }
+        ]
+      },
+      {
+        "district_name": "Vallilan peruspiiri",
+        "subdivisions": [
+          {
+            "name": "Hermanninmäki",
+            "latitude": 60.19463965,
+            "longitude": 24.96962417662163
+          },
+          {
+            "name": "Hermanninranta",
+            "latitude": 60.1962726,
+            "longitude": 24.980635
+          },
+          {
+            "name": "Kyläsaari",
+            "latitude": 60.1988695,
+            "longitude": 24.9747787
+          },
+          {
+            "name": "Vallila",
+            "latitude": 60.1961671,
+            "longitude": 24.9567103
+          }
+        ]
+      },
+      {
+        "district_name": "Pasilan peruspiiri",
+        "subdivisions": [
+          {
+            "name": "Länsi-Pasila",
+            "latitude": 60.1987008,
+            "longitude": 24.9242542
+          },
+          {
+            "name": "Pohjois-Pasila",
+            "latitude": 60.213257,
+            "longitude": 24.9211202
+          },
+          {
+            "name": "Itä-Pasila",
+            "latitude": 60.1988245,
+            "longitude": 24.9378669
+          },
+          {
+            "name": "Keski-Pasila",
+            "latitude": 60.2012401,
+            "longitude": 24.9296597
+          }
+        ]
+      },
+      {
+        "district_name": "Vanhakaupungin peruspiiri",
+        "subdivisions": [
+          {
+            "name": "Toukola",
+            "latitude": 60.2088357,
+            "longitude": 24.9725649
+          },
+          {
+            "name": "Arabianranta",
+            "latitude": 60.2047465,
+            "longitude": 24.978904451650937
+          },
+          {
+            "name": "Kumpula",
+            "latitude": 60.2040009,
+            "longitude": 24.9581075
+          },
+          {
+            "name": "Käpylä",
+            "latitude": 60.2156842,
+            "longitude": 24.9527864
+          },
+          {
+            "name": "Koskela",
+            "latitude": 60.2187652,
+            "longitude": 24.9682441
+          },
+          {
+            "name": "Vanhakaupunki",
+            "latitude": 60.2141157,
+            "longitude": 24.9791849
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "POHJOINEN SUURPIIRI": [
+      {
+        "district_name": "Maunulan peruspiiri",
+        "subdivisions": [
+          {
+            "name": "Pirkkola",
+            "latitude": 60.2342927,
+            "longitude": 24.9173163
+          },
+          {
+            "name": "Maunula",
+            "latitude": 60.2312122,
+            "longitude": 24.9325239
+          },
+          {
+            "name": "Metsälä",
+            "latitude": 60.2216089,
+            "longitude": 24.940277
+          },
+          {
+            "name": "Maunulanpuisto",
+            "latitude": 60.2231048,
+            "longitude": 24.91511
+          }
+        ]
+      },
+      {
+        "district_name": "Länsi-Pakilan peruspiiri",
+        "subdivisions": [
+          {
+            "name": "Länsi-Pakila",
+            "latitude": 60.2435384,
+            "longitude": 24.9269126
+          }
+        ]
+      },
+      {
+        "district_name": "Tuomarinkylän peruspiiri",
+        "subdivisions": [
+          {
+            "name": "Paloheinä",
+            "latitude": 60.2545308,
+            "longitude": 24.9357391
+          },
+          {
+            "name": "Torpparinmäki",
+            "latitude": 60.2617872,
+            "longitude": 24.9537091
+          },
+          {
+            "name": "Haltiala",
+            "latitude": 60.261646150000004,
+            "longitude": 24.92262559433461
+          }
+        ]
+      },
+      {
+        "district_name": "Oulunkylän peruspiiri",
+        "subdivisions": [
+          {
+            "name": "Patola",
+            "latitude": 60.2311885,
+            "longitude": 24.9547822
+          },
+          {
+            "name": "Veräjämäki",
+            "latitude": 60.22768815,
+            "longitude": 24.97511747807589
+          },
+          {
+            "name": "Veräjälaakso",
+            "latitude": 60.2327255,
+            "longitude": 24.9806559
+          }
+        ]
+      },
+      {
+        "district_name": "Itä-Pakilan peruspiiri",
+        "subdivisions": [
+          {
+            "name": "Itä-Pakila",
+            "latitude": 60.2453263,
+            "longitude": 24.9597377
+          },
+          {
+            "name": "Tuomarinkartano",
+            "latitude": 60.2553645,
+            "longitude": 24.9699925
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "KOILLINEN SUURPIIRI": [
+      {
+        "district_name": "Latokartanon peruspiiri",
+        "subdivisions": [
+          {
+            "name": "Viikinranta",
+            "latitude": 60.2174287,
+            "longitude": 24.9861146
+          },
+          {
+            "name": "Latokartano",
+            "latitude": 60.2278188,
+            "longitude": 25.036557892239585
+          },
+          {
+            "name": "Viikin tiedepuisto",
+            "latitude": 60.2271661,
+            "longitude": 25.0156576
+          },
+          {
+            "name": "Viikinmäki",
+            "latitude": 60.2249071,
+            "longitude": 24.9885888
+          },
+          {
+            "name": "Pihlajamäki",
+            "latitude": 63.2075838,
+            "longitude": 27.6276398
+          },
+          {
+            "name": "Pihlajisto",
+            "latitude": 60.2319959,
+            "longitude": 25.0007863
+          }
+        ]
+      },
+      {
+        "district_name": "Pukinmäen peruspiiri",
+        "subdivisions": [
+          {
+            "name": "Pukinmäki",
+            "latitude": 60.245247,
+            "longitude": 24.9896936
+          }
+        ]
+      },
+      {
+        "district_name": "Malmin peruspiiri",
+        "subdivisions": [
+          {
+            "name": "Ylä-Malmi",
+            "latitude": 60.2540482,
+            "longitude": 25.0046591
+          },
+          {
+            "name": "Ala-Malmi",
+            "latitude": 60.2494741,
+            "longitude": 25.0145389
+          },
+          {
+            "name": "Tattariharju",
+            "latitude": 60.245654,
+            "longitude": 25.0507917
+          },
+          {
+            "name": "Malmin lentokenttä",
+            "latitude": 60.2521109,
+            "longitude": 25.0437312
+          },
+          {
+            "name": "Tapaninvainio",
+            "latitude": 60.2586389,
+            "longitude": 24.9906648
+          },
+          {
+            "name": "Tapanila",
+            "latitude": 60.2624633,
+            "longitude": 25.0285605
+          }
+        ]
+      },
+      {
+        "district_name": "Suutarilan peruspiiri",
+        "subdivisions": [
+          {
+            "name": "Siltamäki",
+            "latitude": 60.2747497,
+            "longitude": 24.9888187
+          },
+          {
+            "name": "Töyrynummi",
+            "latitude": 60.2665324,
+            "longitude": 24.9996204
+          }
+        ]
+      },
+      {
+        "district_name": "Puistolan peruspiiri",
+        "subdivisions": [
+          {
+            "name": "Tapulikaupunki",
+            "latitude": 60.2762098,
+            "longitude": 25.025881
+          },
+          {
+            "name": "Puistola",
+            "latitude": 60.2760327,
+            "longitude": 25.036777
+          },
+          {
+            "name": "Heikinlaakso",
+            "latitude": 60.2722087,
+            "longitude": 25.0796835
+          },
+          {
+            "name": "Tattarisuo",
+            "latitude": 60.2579684,
+            "longitude": 25.0601041
+          },
+          {
+            "name": "Alppikylä",
+            "latitude": 60.2601502,
+            "longitude": 25.068567
+          }
+        ]
+      },
+      {
+        "district_name": "Jakomäen peruspiiri",
+        "subdivisions": [
+          {
+            "name": "Jakomäki",
+            "latitude": 60.2591712,
+            "longitude": 25.0784439
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "KAAKKOINEN SUURPIIRI": [
+      {
+        "district_name": "Kulosaaren peruspiiri",
+        "subdivisions": [
+          {
+            "name": "Mustikkamaa",
+            "latitude": 60.1806628,
+            "longitude": 24.990837711716622
+          },
+          {
+            "name": "Kulosaari",
+            "latitude": 60.1853879,
+            "longitude": 25.0096847
+          }
+        ]
+      },
+      {
+        "district_name": "Herttoniemen peruspiiri",
+        "subdivisions": [
+          {
+            "name": "Länsi-Herttoniemi",
+            "latitude": 60.209119,
+            "longitude": 25.0400266
+          },
+          {
+            "name": "Roihuvuori",
+            "latitude": 60.2014675,
+            "longitude": 25.0611467
+          },
+          {
+            "name": "Herttoniemen yritysalue",
+            "latitude": 60.2007837,
+            "longitude": 25.043785643688583
+          },
+          {
+            "name": "Herttoniemenranta",
+            "latitude": 60.1892378,
+            "longitude": 25.0295841
+          },
+          {
+            "name": "Tammisalo",
+            "latitude": 60.1914529,
+            "longitude": 25.0592919
+          }
+        ]
+      },
+      {
+        "district_name": "Laajasalon peruspiiri",
+        "subdivisions": [
+          {
+            "name": "Vartiosaari",
+            "latitude": 60.1840997,
+            "longitude": 25.0764203
+          },
+          {
+            "name": "Yliskylä",
+            "latitude": 60.1768615,
+            "longitude": 25.05503147953023
+          },
+          {
+            "name": "Jollas",
+            "latitude": 60.1630005,
+            "longitude": 25.0741542
+          },
+          {
+            "name": "Tullisaari",
+            "latitude": 60.176342,
+            "longitude": 25.0312241
+          },
+          {
+            "name": "Kruunuvuorenranta",
+            "latitude": 60.1647169,
+            "longitude": 25.016789
+          },
+          {
+            "name": "Hevossalmi",
+            "latitude": 60.1617475,
+            "longitude": 25.0479678
+          },
+          {
+            "name": "Villinki",
+            "latitude": 60.1580759,
+            "longitude": 25.110848
+          },
+          {
+            "name": "Santahamina",
+            "latitude": 60.1524761,
+            "longitude": 25.049372
+          },
+          {
+            "name": "Itäsaaret",
+            "latitude": 60.1241388,
+            "longitude": 25.131736139739402
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ITÄINEN SUURPIIRI": [
+      {
+        "district_name": "Vartiokylän peruspiiri",
+        "subdivisions": [
+          {
+            "name": "Vartioharju",
+            "latitude": 60.2211252,
+            "longitude": 25.1092565
+          },
+          {
+            "name": "Puotila",
+            "latitude": 60.2102036,
+            "longitude": 25.10303363234772
+          },
+          {
+            "name": "Puotinharju",
+            "latitude": 60.2154391,
+            "longitude": 25.086145740544886
+          },
+          {
+            "name": "Marjaniemi",
+            "latitude": 60.203053,
+            "longitude": 25.0860976
+          },
+          {
+            "name": "Roihupelto",
+            "latitude": 60.2109964,
+            "longitude": 25.0538754
+          },
+          {
+            "name": "Itäkeskus",
+            "latitude": 60.210804,
+            "longitude": 25.0801781
+          }
+        ]
+      },
+      {
+        "district_name": "Myllypuron peruspiiri",
+        "subdivisions": [
+          {
+            "name": "Myllypuro",
+            "latitude": 60.2250101,
+            "longitude": 25.0757494
+          }
+        ]
+      },
+      {
+        "district_name": "Mellunkylän peruspiiri",
+        "subdivisions": [
+          {
+            "name": "Kontula",
+            "latitude": 60.2359519,
+            "longitude": 25.0836317
+          },
+          {
+            "name": "Vesala",
+            "latitude": 60.2408169,
+            "longitude": 25.0969058
+          },
+          {
+            "name": "Mellunmäki",
+            "latitude": 60.231908950000005,
+            "longitude": 25.123512967902116
+          },
+          {
+            "name": "Kivikko",
+            "latitude": 60.2356754,
+            "longitude": 25.0608235
+          },
+          {
+            "name": "Kurkimäki",
+            "latitude": 60.2311159,
+            "longitude": 25.0694924
+          }
+        ]
+      },
+      {
+        "district_name": "Vuosaaren peruspiiri",
+        "subdivisions": [
+          {
+            "name": "Keski-Vuosaari",
+            "latitude": 60.2204472,
+            "longitude": 25.1398372
+          },
+          {
+            "name": "Nordsjön kartano",
+            "latitude": 60.2115694,
+            "longitude": 25.1627992
+          },
+          {
+            "name": "Uutela",
+            "latitude": 60.2003441,
+            "longitude": 25.1723642
+          },
+          {
+            "name": "Meri-Rastila",
+            "latitude": 60.2018059,
+            "longitude": 25.1223746
+          },
+          {
+            "name": "Kallahti",
+            "latitude": 60.2008092,
+            "longitude": 25.1383954
+          },
+          {
+            "name": "Aurinkolahti",
+            "latitude": 60.2055374,
+            "longitude": 25.15423
+          },
+          {
+            "name": "Rastila",
+            "latitude": 60.2109473,
+            "longitude": 25.126049404436365
+          },
+          {
+            "name": "Niinisaari",
+            "latitude": 60.2184972,
+            "longitude": 25.1657586
+          },
+          {
+            "name": "Mustavuori",
+            "latitude": 60.2314784,
+            "longitude": 25.1431746
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ÖSTERSUNDOMIN SUURPIIRI": [
+      {
+        "district_name": "Östersundomin peruspiiri",
+        "subdivisions": [
+          {
+            "name": "Östersundom",
+            "latitude": 60.2596026,
+            "longitude": 25.18700945297565
+          },
+          {
+            "name": "Salmenkallio",
+            "latitude": 60.244024,
+            "longitude": 25.1574065
+          },
+          {
+            "name": "Talosaari",
+            "latitude": 60.2436241,
+            "longitude": 25.2015583
+          },
+          {
+            "name": "Karhusaari",
+            "latitude": 60.2510434,
+            "longitude": 25.2234058
+          },
+          {
+            "name": "Landbo",
+            "latitude": 60.2693777,
+            "longitude": 25.1942843
+          },
+          {
+            "name": "Puroniitty",
+            "latitude": 60.2834741,
+            "longitude": 25.2391067
+          }
+        ]
+      }
+    ]
+  }
+]

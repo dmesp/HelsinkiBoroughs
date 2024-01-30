@@ -1,0 +1,195 @@
+!Vironniemen peruspiiri – Estnäs distrikt
+010 Kruununhaka- Kronohagen
+020 Kluuvi - Gloet
+080 Katajanokka - Skatudden
+102 Ullanlinnan peruspiiri – Ulrikasborgs distrikt
+030 Kaartinkaupunki - Gardesstaden
+050 Punavuori - Rödbergen
+060 Eira
+070 Ullanlinna - Ulrikasborg
+090 Kaivopuisto - Brunnsparken
+204 Hernesaari - Ärtholmen
+520 Suomenlinna - Sveaborg
+531 Länsisaaret - Västra holmarna
+103 Kampinmalmin peruspiiri – Kampmalmens distrikt
+040 Kamppi - Kampen
+130 Etu-Töölö - Främre Tölö
+201 Ruoholahti – Gräsviken
+202 Lapinlahti - Lappviken
+203 Jätkäsaari - Busholmen
+104 Taka-Töölön peruspiiri - Bortre Tölö distrikt
+140 Taka-Töölö - Bortre Tölö
+105 Lauttasaaren peruspiiri – Drumsö distrikt
+311 Kotkavuori – Örnberget
+312 Vattuniemi – Hallonnäs
+313 Myllykallio – Kvarnberget
+314 Koivusaari – Björkholmen
+
+2 !LÄNTINEN SUURPIIRI - VÄSTRA STORDISTRIKTET
+201 Reijolan peruspiiri – Grejus distrikt
+150 Meilahti - Mejlans
+161 Vanha Ruskeasuo – Gamla Brunakärr
+162 Pikku Huopalahti - Lillhoplax
+180 Laakso - Dal
+202 Munkkiniemen peruspiiri – Munksnäs distrikt
+301 Vanha Munkkiniemi - Gamla Munksnäs
+302 Kuusisaari – Granö
+303 Lehtisaari - Lövö
+304 Munkkivuori - Munkshöjden
+305 Niemenmäki - Näshöjden
+306 Talinranta – Talistranden
+203 Haagan peruspiiri – Haga distrikt
+291 Etelä-Haaga - Södra Haga
+292 Kivihaka - Stenhagen
+293 Pohjois-Haaga - Norra Haga
+294 Lassila - Lassas
+204 Pitäjänmäen peruspiiri – Sockenbacka distrikt
+320 Konala - Kånala
+461 Pajamäki - Smedjebacka
+462 Tali
+463 Reimarla - Reimars
+464 Marttila - Martas
+465 Pitäjänmäen yritysalue - Sockenbacka företagsområde
+205 Kaarelan peruspiiri – Kårböle distrikt
+331 Kannelmäki - Gamlas
+332 Maununneva - Magnuskärr
+333 Malminkartano - Malmgård
+334 Hakuninmaa - Håkansåker
+335 Kuninkaantammi – Kungseken
+336 Honkasuo - Hongasmossa
+
+3 !KESKINEN SUURPIIRI - MELLERSTA STORDISTRIKTET
+301 Kallion peruspiiri – Berghälls distrikt
+101 Vilhonvuori – Vilhelmsberg
+102 Kalasatama – Fiskehamnen
+103 Sompasaari – Sumparn
+104 Hanasaari - Hanaholmen
+111 Siltasaari - Broholmen
+112 Linjat - Linjerna
+113 Torkkelinmäki - Torkelsbacken
+302 Alppiharjun peruspiiri – Åshöjdens distrikt
+121 Harju - Ås
+122 Alppila - Alphyddan
+303 Vallilan peruspiiri – Vallgårds distrikt
+211 Hermanninmäki – Hermanstadsbacken
+212 Hermanninranta – Hermanstadsstranden
+213 Kyläsaari - Byholmen
+220 Vallila - Vallgård
+304 Pasilan peruspiiri – Böle distrikt
+171 Länsi-Pasila - Västra Böle
+172 Pohjois-Pasila - Norra Böle
+173 Itä-Pasila - Östra Böle
+174 Keski-Pasila - Mellersta Böle
+305 Vanhakaupungin peruspiiri – Gammelstadens distrikt
+231 Toukola - Majstad
+232 Arabianranta - Arabiastranden
+240 Kumpula - Gumtäkt
+250 Käpylä - Kottby
+260 Koskela - Forsby
+270 Vanhakaupunki – Gammelstaden
+
+4 !POHJOINEN SUURPIIRI - NORRA STORDISTRIKTET
+401 Maunulan peruspiiri – Månsas distrikt
+281 Pirkkola - Britas
+282 Maunula - Månsas
+283 Metsälä - Krämertsskog
+286 Maunulanpuisto - Månsasparken
+402 Länsi-Pakilan peruspiiri - Västra Baggböle distrikt
+341 Länsi-Pakila - Västra Baggböle
+403 Tuomarinkylän peruspiiri – Domarby distrikt
+351 Paloheinä - Svedängen
+352 Torpparinmäki – Torparbacken
+354 Haltiala - Tomtbacka
+404 Oulunkylän peruspiiri – Åggelby distrikt
+284 Patola - Dammen
+285 Veräjämäki – Grindbacka
+287 Veräjälaakso - Grinddal
+405 Itä-Pakilan peruspiiri - Östra Baggböle distrikt
+342 Itä-Pakila - Östra Baggböle
+353 Tuomarinkartano - Domargård
+
+5 !KOILLINEN SUURPIIRI - NORDÖSTRA STORDISTRIKTET
+501 Latokartanon peruspiiri – Ladugårdens distrikt
+361 Viikinranta - Viksstranden
+362 Latokartano - Ladugården
+363 Viikin tiedepuisto - Viks forskarpark
+364 Viikinmäki - Viksbacka
+383 Pihlajamäki - Rönnbacka
+386 Pihlajisto - Rönninge
+502 Pukinmäen peruspiiri – Bocksbacka distrikt
+370 Pukinmäki-Bocksbacka
+503 Malmin peruspiiri – Malms distrikt
+381 Ylä-Malmi - Övre Malm
+382 Ala-Malmi - Nedre Malm
+384 Tattariharju - Tattaråsen
+385 Malmin lentokenttä - Malms flygfält
+391 Tapaninvainio - Staffansslätten
+392 Tapanila - Mosabacka
+504 Suutarilan peruspiiri – Skomakarböle distrikt
+401 Siltamäki - Brobacka
+403 Töyrynummi - Lidmalmen
+505 Puistolan peruspiiri – Parkstads distrikt
+402 Tapulikaupunki - Stapelstaden
+411 Puistola - Parkstad
+412 Heikinlaakso - Henriksdal
+413 Tattarisuo - Tattarmossen
+415 Alppikylä - Alpbyn
+506 Jakomäen peruspiiri – Jakobacka distrikt
+414 Jakomäki – Jakobacka
+
+6 !KAAKKOINEN SUURPIIRI - SYDÖSTRA STORDISTRIKTET
+601 Kulosaaren peruspiiri – Brändö distrikt
+190 Mustikkamaa - Korkeasaari - Blåbärslandet - Högholmen
+420 Kulosaari - Brändö
+602 Herttoniemen peruspiiri – Hertonäs distrikt
+431 Länsi-Herttoniemi - Västra Hertonäs
+432 Roihuvuori - Kasberget
+433 Herttoniemen yritysalue - Hertonäs företagsområde
+434 Herttoniemenranta - Hertonäs strand
+440 Tammisalo - Tammelund
+603 Laajasalon peruspiiri – Degerö distrikt
+480 Vartiosaari - Vårdö
+491 Yliskylä - Uppby
+492 Jollas
+493 Tullisaari - Turholm
+494 Kruunuvuorenranta - Kronbergsstranden
+495 Hevossalmi - Hästnässund
+500 Villinki - Villinge
+510 Santahamina - Sandhamn
+532 Itäsaaret - Östra holmarna
+
+7 !ITÄINEN SUURPIIRI - ÖSTRA STORDISTRIKTET
+701 Vartiokylän peruspiiri – Botby distrikt
+451 Vartioharju – Botbyåsen
+452 Puotila - Botby gård
+453 Puotinharju - Botbyhöjden
+455 Marjaniemi – Marudd
+456 Roihupelto - Kasåkern
+457 Itäkeskus - Östra centrum
+702 Myllypuron peruspiiri – Kvarnbäckens distrikt
+454 Myllypuro - Kvarnbäcken
+703 Mellunkylän peruspiiri – Mellungsby distrikt
+471 Kontula - Gårdsbacka
+472 Vesala - Ärvings
+473 Mellunmäki - Mellungsbacka
+474 Kivikko - Stensböle
+475 Kurkimäki - Tranbacka
+704 Vuosaaren peruspiiri – Nordsjö distrikt
+541 Keski-Vuosaari - Mellersta Nordsjö
+542 Nordsjön kartano - Nordsjö gård
+543 Uutela - Nybondas
+544 Meri-Rastila - Havsrastböle
+545 Kallahti - Kallvik
+546 Aurinkolahti - Solvik
+547 Rastila - Rastböle
+548 Niinisaari - Bastö
+549 Mustavuori - Svarta backen
+
+8 !ÖSTERSUNDOMIN SUURPIIRI - ÖSTERSUNDOMS STORDISTRIKT
+801 Östersundomin peruspiiri – Östersundoms distrikt
+550 Östersundom
+560 Salmenkallio - Sundberg
+570 Talosaari - Husö
+580 Karhusaari - Björnsö
+591 Landbo
+592 Puroniitty – Bäckängen

@@ -1,0 +1,189 @@
+!ETELÄINEN SUURPIIRI
+Vironniemen peruspiiri
+Kruununhaka
+Kluuvi
+Katajanokka
+Ullanlinnan peruspiiri
+Kaartinkaupunki
+Punavuori
+Eira
+Ullanlinna
+Kaivopuisto
+Hernesaari
+Suomenlinna
+Länsisaaret
+Kampinmalmin peruspiiri
+Kamppi
+Etu-Töölö
+Ruoholahti
+Lapinlahti
+Jätkäsaari
+Taka-Töölön peruspiiri
+Taka-Töölö
+Lauttasaaren peruspiiri
+Kotkavuori
+Vattuniemi
+Myllykallio
+Koivusaari
+!LÄNTINEN SUURPIIRI
+Reijolan peruspiiri
+Meilahti
+Vanha Ruskeasuo
+Pikku Huopalahti
+Laakso
+Munkkiniemen peruspiiri
+Vanha Munkkiniemi
+Kuusisaari
+Lehtisaari
+Munkkivuori
+Niemenmäki
+Talinranta
+Haagan peruspiiri
+Etelä-Haaga
+Kivihaka
+Pohjois-Haaga
+Lassila
+Pitäjänmäen peruspiiri
+Konala
+Pajamäki
+Tali
+Reimarla
+Marttila
+Pitäjänmäen yritysalue
+Kaarelan peruspiiri
+Kannelmäki
+Maununneva
+Malminkartano
+Hakuninmaa
+Kuninkaantammi
+Honkasuo
+!KESKINEN SUURPIIRI
+Kallion peruspiiri
+Vilhonvuori
+Kalasatama
+Sompasaari
+Hanasaari
+Siltasaari
+Linjat
+Torkkelinmäki
+Alppiharjun peruspiiri
+Harju
+Alppila
+Vallilan peruspiiri
+Hermanninmäki
+Hermanninranta
+Kyläsaari
+Vallila
+Pasilan peruspiiri
+Länsi-Pasila
+Pohjois-Pasila
+Itä-Pasila
+Keski-Pasila
+Vanhakaupungin peruspiiri
+Toukola
+Arabianranta
+Kumpula
+Käpylä
+Koskela
+Vanhakaupunki
+!POHJOINEN SUURPIIRI
+Maunulan peruspiiri
+Pirkkola
+Maunula
+Metsälä
+Maunulanpuisto
+Länsi-Pakilan peruspiiri
+Länsi-Pakila
+Tuomarinkylän peruspiiri
+Paloheinä
+Torpparinmäki
+Haltiala
+Oulunkylän peruspiiri
+Patola
+Veräjämäki
+Veräjälaakso
+Itä-Pakilan peruspiiri
+Itä-Pakila
+Tuomarinkartano
+!KOILLINEN SUURPIIRI
+Latokartanon peruspiiri
+Viikinranta
+Latokartano
+Viikin tiedepuisto
+Viikinmäki
+Pihlajamäki
+Pihlajisto
+Pukinmäen peruspiiri
+Pukinmäki
+Malmin peruspiiri
+Ylä-Malmi
+Ala-Malmi
+Tattariharju
+Malmin lentokenttä
+Tapaninvainio
+Tapanila
+Suutarilan peruspiiri
+Siltamäki
+Töyrynummi
+Puistolan peruspiiri
+Tapulikaupunki
+Puistola
+Heikinlaakso
+Tattarisuo
+Alppikylä
+Jakomäen peruspiiri
+Jakomäki
+!KAAKKOINEN SUURPIIRI
+Kulosaaren peruspiiri
+Mustikkamaa
+Kulosaari
+Herttoniemen peruspiiri
+Länsi-Herttoniemi
+Roihuvuori
+Herttoniemen yritysalue
+Herttoniemenranta
+Tammisalo
+Laajasalon peruspiiri
+Vartiosaari
+Yliskylä
+Jollas
+Tullisaari
+Kruunuvuorenranta
+Hevossalmi
+Villinki
+Santahamina
+Itäsaaret
+!ITÄINEN SUURPIIRI
+Vartiokylän peruspiiri
+Vartioharju
+Puotila
+Puotinharju
+Marjaniemi
+Roihupelto
+Itäkeskus
+Myllypuron peruspiiri
+Myllypuro
+Mellunkylän peruspiiri
+Kontula
+Vesala
+Mellunmäki
+Kivikko
+Kurkimäki
+Vuosaaren peruspiiri
+Keski-Vuosaari
+Nordsjön kartano
+Uutela
+Meri-Rastila
+Kallahti
+Aurinkolahti
+Rastila
+Niinisaari
+Mustavuori
+!ÖSTERSUNDOMIN SUURPIIRI
+Östersundomin peruspiiri
+Östersundom
+Salmenkallio
+Talosaari
+Karhusaari
+Landbo
+Puroniitty
